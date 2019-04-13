@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/pageObject/profilepage.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="130" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="130" />
+              <caret line="5" column="130" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="130" />
             </state>
           </provider>
         </entry>
@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/trash.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -109,6 +109,9 @@
       <replace>find_freelance_field</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -122,12 +125,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="437" />
     <option name="y" value="24" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -265,15 +269,15 @@
       <workItem from="1554561968696" duration="5065000" />
       <workItem from="1554575738086" duration="846000" />
       <workItem from="1554824368996" duration="11408000" />
-      <workItem from="1554922298925" duration="33210000" />
+      <workItem from="1554922298925" duration="34586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50529000" />
+    <option name="totallyTimeSpent" value="51905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -358,7 +362,7 @@
     <entry file="file://$PROJECT_DIR$/trash.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -410,7 +414,7 @@
     <entry file="file://$PROJECT_DIR$/pageObject/profilepage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="130" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="130" />
+          <caret line="5" column="130" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="130" />
         </state>
       </provider>
     </entry>
