@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/stepDefinition/common_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
-              <caret line="61" column="89" selection-start-line="61" selection-start-column="89" selection-end-line="61" selection-end-column="89" />
+              <caret line="61" column="163" lean-forward="true" selection-start-line="61" selection-start-column="163" selection-end-line="61" selection-end-column="163" />
             </state>
           </provider>
         </entry>
@@ -277,16 +277,15 @@
       <workItem from="1554575738086" duration="846000" />
       <workItem from="1554824368996" duration="11408000" />
       <workItem from="1554922298925" duration="37660000" />
-      <workItem from="1555253101474" duration="22774000" />
+      <workItem from="1555253101474" duration="23588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77753000" />
+    <option name="totallyTimeSpent" value="78567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -300,9 +299,9 @@
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4152452" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4152452" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.5847548" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.5847548" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -444,7 +443,7 @@
     <entry file="file://$PROJECT_DIR$/stepDefinition/common_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
-          <caret line="61" column="89" selection-start-line="61" selection-start-column="89" selection-end-line="61" selection-end-column="89" />
+          <caret line="61" column="163" lean-forward="true" selection-start-line="61" selection-start-column="163" selection-end-line="61" selection-end-column="163" />
         </state>
       </provider>
     </entry>
