@@ -31,7 +31,7 @@ driver.find_element(:id, $searchResultsGridID).displayed? #check search page gri
 
 # Parse the 1st page with search results: store info given on the 1st page of search results as structured data of any chosen by you type (i.e. hash of hashes or array of hashes, whatever structure handy to be parsed).
 # Make sure at least one attribute (title, overview, skills, etc) of each item (found freelancer) from parsed search results contains `<keyword>` Log in stdout which freelancers and attributes contain `<keyword>` and which do not.
-common_steps.checkFindFreelancers(driver,$searchResultTitle, $searchResultsSummery, $searchResultsDescription, $searchResultsSkills)
+common_steps.checkFindFreelancers(driver, $searchResultTitle, $searchResultsSummery, $searchResultsDescription)
 
 # Click on random freelancer's title
 # Get into that freelancer's profile
@@ -39,14 +39,12 @@ driver.find_element(:xpath, $searchResultTitle).click #click on first profile
 
 
 #10. Check that each attribute value is equal to one of those stored in the structure created in #67
-userName = driver.find_element(:xpath, $gridUserProfileName).attribute("innerHTML")
-print userName
-print '==================================================='
-userSummery = driver.find_element(:xpath, $gridUserProfileSummery).attribute("innerHTML")
+#userName = driver.find_element(:xpath, $gridUserProfileName).attribute("innerHTML")
+#userSummery = driver.find_element(:xpath, $gridUserProfileSummery).attribute("innerHTML")
 #userDescription = driver.find_element(:xpath, $gridUserProfileDescription).attribute("innerHTML")
 #userDescription = userDescription.slice(0..40)
-
-common_steps.isInclude(userName, userSummery)
+numberOfUser = 0 #Checking data for 0 user
+common_steps.checkProfileData(driver, numberOfUser)
 
 #11. Check whether at least one attribute contains `<keyword>`
 print "\nis profile include keyword? "
