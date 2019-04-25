@@ -38,6 +38,7 @@ common_steps.checkFindFreelancers(driver, $searchResultTitle, $searchResultsSumm
 driver.find_element(:xpath, $searchResultTitle).click #click on first profile
 
 
+
 #10. Check that each attribute value is equal to one of those stored in the structure created in #67
 #userName = driver.find_element(:xpath, $gridUserProfileName).attribute("innerHTML")
 #userSummery = driver.find_element(:xpath, $gridUserProfileSummery).attribute("innerHTML")
